@@ -2,7 +2,7 @@
 
 How to install?
 - Install dependencies pip install -r requirements.txt
-- In Wallets sit phrases
+- In Wallets Seed phrases
 - In Proxies proxy
 
 My telegram channel: 
